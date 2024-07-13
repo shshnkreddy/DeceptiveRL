@@ -1,0 +1,17 @@
+Seeds used for the experiments:
+1) Comparison against MEIR with MCEIRL
+     -Frozen 5x5: [0, 3, 12, 39, 46]
+    -Frozen Lake 10x10: [0, 1, 2, 3, 4]
+    -Four Rooms 4x4: [11, 15, 18, 76, 79]
+    -Four Rooms 6x6: [43, 76, 78, 79, 83]
+    -random: [9, 54,  105, 189, 202]
+
+2) Comparison against MEIR with IQ-Learn 
+    -CyberBattle: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    -Frozen 5x5: [0, 1, 2, 3, 4]
+    -random: [0, 1, 2, 3, 4]
+
+3) Comparison with DQFN
+    -Frozen 5x5: [0, 1, 2, 3, 4]
+    -Four Rooms 4x4: [0, 1, 2, 3, 4]
+    -random: [0, 1, 2, 3, 4]
